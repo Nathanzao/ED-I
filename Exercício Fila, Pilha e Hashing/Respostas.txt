@@ -1,0 +1,38 @@
+1) Já implementado, a parte das funções da fila.
+    a) O melhor método seria a lista estática sequencial. Não há tanta coisa para ser feita na função inserir
+nessa lista. (obviamente, se perguntassemos qual é mais eficiente em termos gerais e não de uma função apenas, seria outra coisa).
+Claro, se for no final - como é o caso da FILA. Caso for no começo, imagine que teremos que deslocar todos os valores à direita. 
+Nesse caso, a lista estática encadeada seria melhor.
+    
+    b) Lista Estática Encadeada, pois teríamos que remover no início. Na lista estática sequencial, deslocariamos tudo para
+a esquerda, custando bastante. Na encadeada, teríamos uma remoção mais simples.
+
+    c) Lista Encadeada Dinâmica, pois você apenas insere no final. Logo, não há necessidade de percorrer de trás para frente.
+
+    d) Lista Encadeada Dinâmica, pois você retira tudo a partir do inicio. Não há necessidade do ponteiro anterior que existe
+na lista duplamente encadeada.
+
+2) feito.
+
+3)
+
+Suponha que uma pilha possua 4 valores na seguinte ordem: 1, 2, 3 e 4. Qual seria a sequência 
+correta de operações de inserção (I) e remoção (R) para se obter os registros na ordem 2 4 3 1. 
+Reposta: 
+I(1); I(2); R; I(3); I(4); R; R; R; 
+
+4) feito.
+
+5) feito.
+
+6) feito.
+
+7) B e D.
+
+8) e. Pois todos quadrados perfeitos resultam no resultado 1 ou 0 da tabela.
+
+9) e.
+
+10) Resultado normais.
+
+11) 
